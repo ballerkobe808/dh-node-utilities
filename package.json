@@ -1,0 +1,28 @@
+{
+  "name": "dh-node-utilities",
+  "version": "0.0.1",
+  "author": {
+    "name": "Michael Uranaka",
+    "email": "uranakam@gmail.com"
+  },
+  "dependencies": {
+    "underscore": "1.6.0",
+    "request": "2.27.0",
+    "cheerio": "0.12.4",
+    "dh-400jdbc": "0.0.6",
+    "html-entities": "1.0.10",
+    "winston": "0.7.2",
+    "winston-loggly": "1.0.1",
+    "express-winston": "0.2.1"
+  },
+  "main": "index",
+  "description": "Module containing utility sub modules.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uranakam/dh-node-utilities.git"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "readmeFilename": "README.md"
+}

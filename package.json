@@ -1,6 +1,6 @@
 {
   "name": "dh-node-utilities",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
     "name": "Michael Uranaka",
     "email": "uranakam@gmail.com"
@@ -9,11 +9,11 @@
     "underscore": "1.6.0",
     "request": "2.27.0",
     "cheerio": "0.12.4",
-    "dh-400jdbc": "0.0.6",
     "html-entities": "1.0.10",
     "winston": "0.7.2",
     "winston-loggly": "1.0.1",
-    "express-winston": "0.2.1"
+    "express-winston": "0.2.1",
+    "validator": "3.18.0"
   },
   "main": "index",
   "description": "Module containing utility sub modules.",

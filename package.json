@@ -1,20 +1,15 @@
 {
   "name": "dh-node-utilities",
-  "version": "0.2.21",
+  "version": "0.3.0",
   "author": {
     "name": "Michael Uranaka",
     "email": "uranakam@gmail.com"
   },
   "dependencies": {
-    "underscore": "1.6.0",
-    "request": "2.27.0",
-    "cheerio": "0.12.4",
-    "html-entities": "1.0.10",
-    "winston": "0.7.2",
-    "winston-loggly": "1.0.1",
-    "express-winston": "0.2.1",
-    "validator": "3.18.0",
-    "async": "0.9.0"
+    "underscore": "1.8.3",
+    "html-entities": "1.2.1",
+    "validator": "8.1.0",
+    "async": "2.5.0"
   },
   "main": "index",
   "description": "Module containing utility sub modules.",
@@ -25,5 +20,6 @@
   "engines": {
     "node": ">= 0.10"
   },
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "license": "(MIT OR Apache-2.0)"
 }

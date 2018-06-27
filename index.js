@@ -7,3 +7,4 @@ exports.MongoUtils     		    = require('./lib/mongo-utilities');
 exports.SQLUtils              = require('./lib/sql-utilities');
 exports.DateUtils             = require('./lib/date-utilities');
 exports.FileUtils             = require('./lib/file-utilities');
+exports.TimerUtils            = require('./lib/timer-utilities');

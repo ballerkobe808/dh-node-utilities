@@ -1,14 +1,14 @@
 {
   "name": "dh-node-utilities",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "author": {
     "name": "Michael Uranaka",
     "email": "uranakam@gmail.com"
   },
   "dependencies": {
-    "underscore": "1.8.3",
+    "underscore": "1.9.1",
     "validator": "8.1.0",
-    "async": "2.5.0"
+    "async": "2.6.1"
   },
   "main": "index",
   "description": "Module containing utility sub modules.",

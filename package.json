@@ -21,7 +21,7 @@
     "url": "git://github.com/uranakam/dh-node-utilities.git"
   },
   "engines": {
-    "node": ">= 6"
+    "node": ">= 10"
   },
   "readmeFilename": "README.md",
   "license": "(MIT OR Apache-2.0)"

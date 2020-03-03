@@ -11,7 +11,7 @@
     "lodash": "4.17.15",
     "moment": "2.24.0",
     "validator": "12.2.0",
-    "winston": "2.3.1",
+    "winston": "2.4.4",
     "winston-papertrail": "1.0.5"
   },
   "main": "index",

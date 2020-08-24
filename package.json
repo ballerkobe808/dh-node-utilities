@@ -1,17 +1,17 @@
 {
   "name": "dh-node-utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Michael Uranaka",
     "email": "uranakam@gmail.com"
   },
   "dependencies": {
-    "async": "3.1.1",
+    "async": "3.2.0",
     "callsites": "3.1.0",
-    "lodash": "4.17.19",
-    "moment": "2.24.0",
-    "validator": "12.2.0",
-    "winston": "2.4.4",
+    "lodash": "4.17.20",
+    "moment": "2.27.0",
+    "validator": "13.1.1",
+    "winston": "2.4.5",
     "winston-papertrail": "1.0.5"
   },
   "main": "index",
